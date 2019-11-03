@@ -12,5 +12,5 @@ Drücke, um zu beginnen, auf "Start.py" und lass dich durch das Programm fahren.
 Alles klar soweit?
 Dann kann es ja losgehen!
 
-# Importierte Bibliotheken:
+# Importierte Bibliotheken
 - PIL (Python Imaging Library)
