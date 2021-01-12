@@ -1,6 +1,6 @@
 # Refile
 Willkommen bei Refile, einem kleinen Programm zur Sortierung von Photos.
-Entwickler: Adrian Chroust, "The Dude"
+Entwickler: Adrian Chroust
 
 Damit das Programm funktioniert benötigst du Python 3.7.2 oder neuer.
 Du kannst es auf der offiziellen Website www.python.org herunterladen.
