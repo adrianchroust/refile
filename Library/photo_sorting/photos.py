@@ -1,10 +1,9 @@
-def sort(path,name,show):
+import os
+import time
+from PIL import Image
+from settings.config import images, excluded, con1, con2, sep
 
-    import os
-    import time
-    from PIL import Image
-    from settings.config import images, excluded, con1, con2, sep
-    
+def sort(path,name,show):    
     album = []
     n = 1
 
