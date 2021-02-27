@@ -1,11 +1,10 @@
+import os
+import time
+import shutil
+from photo_sorting import sort
+from settings.config import yes, no, stop
+
 def collect():
-
-    import os
-    import time
-    import shutil
-    from photo_sorting import sort
-    from settings.config import yes, no, stop
-
     show = False
 
     diverse = "Diverse"
